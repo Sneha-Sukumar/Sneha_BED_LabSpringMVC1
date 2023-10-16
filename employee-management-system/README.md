@@ -1,1 +1,1 @@
-# Simple Spring boot for Employee entity management
+# Spring boot - Employee Management System
